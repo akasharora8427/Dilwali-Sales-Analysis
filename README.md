@@ -8,7 +8,7 @@ This project analyzes Diwali festival sales data to uncover consumer behavior pa
 
 ├── Python Project.ipynb # Main Jupyter Notebook with analysis  
 ├── README.md # Project documentation  
-├── diwali_sales.csv # (Assumed) dataset file
+├── Diwali Sales Data.csv # dataset file(csv format)
 
 ---
 
